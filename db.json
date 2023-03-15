@@ -1,0 +1,19 @@
+{
+  "Juego": [
+    {
+      "id": 1,
+      "title": "ahorcado"
+    },
+    {
+      "id": 2,
+      "title": "cod"
+    },
+    {
+      "id": 2,
+      "title": "wow"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
